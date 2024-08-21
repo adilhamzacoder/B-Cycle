@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.haderbd{
+    /* background-image: url(./c4.jpg); */
+    background-color: blueviolet;
+}
