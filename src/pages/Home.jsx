@@ -1,10 +1,11 @@
 import React from 'react';
-import '../index.css'
 
 const Home = () => {
     return (
-        <div className='haderbg h-[500px]'>
-            
+        <div>
+            <div className="h-screen haderbd">
+                
+            </div>
         </div>
     );
 };

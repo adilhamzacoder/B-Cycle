@@ -4,6 +4,8 @@
 
 
 .haderbd{
-    /* background-image: url(./c4.jpg); */
-    background-color: blueviolet;
+    background-image: url(./c4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
